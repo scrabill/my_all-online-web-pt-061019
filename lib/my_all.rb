@@ -7,5 +7,4 @@ def my_all?(collection)
     yeild(collection[i])
     i +=
   end
-
 end
