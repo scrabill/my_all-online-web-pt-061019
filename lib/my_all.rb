@@ -4,7 +4,8 @@ def my_all?(collection)
   i = 0
 
   while i < collection.length
-    yeild(collection[i])
+    yield(collection[i])
     i +=
   end
+
 end
